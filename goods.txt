@@ -2,4 +2,5 @@ Mouse
 Keyboard
 Laptop
 Micraphone
-Клавиатура
+КлавиатураФлаг
+Рюкзак 
